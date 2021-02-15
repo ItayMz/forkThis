@@ -1,17 +1,17 @@
-# Project Title
+# My first project
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### By ItayMz
 
 ### Description
 
-Create a description and fill it in here.
+the grind never stops
 
 ## Languages used
 
 What languages were used for this repo:
-List them
+visual code
 
 ### Known Bugs
 
